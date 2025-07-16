@@ -32,17 +32,17 @@ A mini project built using HTML, CSS, PHP, and MySQL for MBES College of Enginee
 6.Copy the folder Online_voting_system.
 7.📁 Move the Folder
 8.XAMPP users: Paste it into C:\xampp\htdocs\
-WAMP users: Paste it into C:\wamp\www\
-🌐 Open phpMyAdmin
-Visit http://localhost/phpmyadmin in your browser.
-🗃️ Create Database
-Click New on the left panel.
-Enter database name: ovs
+9.WAMP users: Paste it into C:\wamp\www\
+10.🌐 Open phpMyAdmin
+11.Visit http://localhost/phpmyadmin in your browser.
+12.🗃️ Create Database
+13.Click New on the left panel.
+14.Enter database name: ovs
 Click Create
-📥 Import the SQL File
-With the ovs database selected, click on Import.
-Choose the file: ovs.sql (located inside the db folder of the project).
-Click Go to import the database.
+15.📥 Import the SQL File
+16.With the ovs database selected, click on Import.
+17.Choose the file: ovs.sql (located inside the db folder of the project).
+18.Click Go to import the database.
 
 🚀 Launch the App
 Voter Portal:
@@ -55,12 +55,16 @@ http://localhost/Online_voting_system/admin
 Username: Vaibhav
 Password: 1234
 
+Username: admin
+Password: admin
 
 
 ## 📸 Screenshots
 <img width="1919" height="1032" alt="Screenshot 2025-06-24 133447" src="https://github.com/user-attachments/assets/a6f47fab-1aba-4d60-a972-a88a472d5b9e" />
-<img width="1538" height="910" alt="Screenshot 2025-06-24 133427" src="https://github.com/user-attachments/assets/4245c944-4d0e-43a0-836a-0adb6d06c239" />
+<img width="1732" height="902" alt="image" src="https://github.com/user-attachments/assets/8d23d09c-a284-4ebb-be68-8ee738746513" />
 <img width="1386" height="904" alt="Screenshot 2025-06-24 135923" src="https://github.com/user-attachments/assets/8de6eb28-6b18-4047-b10b-98edf76c2169" />
+<img width="1899" height="962" alt="Screenshot 2025-06-24 140111" src="https://github.com/user-attachments/assets/a0a9c64a-94eb-4c8b-b445-35efd58265ea" />
+
 
 ## 🙌 Authors
 - Vaibhav Mungal
