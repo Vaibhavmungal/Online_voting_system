@@ -24,25 +24,27 @@ A mini project built using HTML, CSS, PHP, and MySQL for MBES College of Enginee
 
 ## ⚙️ Setup Instructions
 
-1. ✅ Start Apache & MySQL
-2. Open your XAMPP or WAMP Control Panel.
-3.Start the Apache and MySQL services.
-4.📂 Extract the Source Code
-5.Extract the Online_voting_system.zip file you downloaded.
-6.Copy the folder Online_voting_system.
-7.📁 Move the Folder
-8.XAMPP users: Paste it into C:\xampp\htdocs\
-9.WAMP users: Paste it into C:\wamp\www\
-10.🌐 Open phpMyAdmin
-11.Visit http://localhost/phpmyadmin in your browser.
-12.🗃️ Create Database
-13.Click New on the left panel.
-14.Enter database name: ovs
+1. ✅ Start Apache & MySQL                 
+2. Open your XAMPP or WAMP Control Panel.              
+3. Start the Apache and MySQL services.                  
+4. 📂 Extract the Source Code                  
+5. Extract the Online_voting_system.zip file you downloaded.               
+6. Copy the folder Online_voting_system.
+7. 📁 Move the Folder                    
+8. XAMPP users: Paste it into C:\xampp\htdocs\
+9. WAMP users: Paste it into C:\wamp\www\
+
+10. 🌐 Open phpMyAdmin
+11. Visit http://localhost/phpmyadmin in your browser.
+12. 🗃️ Create Database
+13. Click New on the left panel.
+14. Enter database name: ovs
 Click Create
-15.📥 Import the SQL File
-16.With the ovs database selected, click on Import.
-17.Choose the file: ovs.sql (located inside the db folder of the project).
-18.Click Go to import the database.
+
+15. 📥 Import the SQL File
+16. With the ovs database selected, click on Import.
+17. choose the file: ovs.sql (located inside the db folder of the project).
+18. Click Go to import the database.
 
 🚀 Launch the App
 Voter Portal:
