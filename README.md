@@ -27,11 +27,11 @@ A mini project built using HTML, CSS, PHP, and MySQL for MBES College of Enginee
 1. ✅ Start Apache & MySQL
 2. Open your XAMPP or WAMP Control Panel.
 3.Start the Apache and MySQL services.
-📂 Extract the Source Code
-Extract the Online_voting_system.zip file you downloaded.
-Copy the folder Online_voting_system.
-📁 Move the Folder
-XAMPP users: Paste it into C:\xampp\htdocs\
+4.📂 Extract the Source Code
+5.Extract the Online_voting_system.zip file you downloaded.
+6.Copy the folder Online_voting_system.
+7.📁 Move the Folder
+8.XAMPP users: Paste it into C:\xampp\htdocs\
 WAMP users: Paste it into C:\wamp\www\
 🌐 Open phpMyAdmin
 Visit http://localhost/phpmyadmin in your browser.
